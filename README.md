@@ -1,12 +1,12 @@
-#Exercise_App
+# Exercise_App
 
 Flutter app that might be useful during the workout sessions
 
-Flutter
+## Flutter
 
 [Flutter](https://flutter.dev/) is a crossplatfrom UI tool kit that helps in developing native Android and iOS app from a single code base.
 
-App 
+## App 
 
 This app mainly concentrates on nice looking **UI** and certain features that are really useful during the workouts
 
