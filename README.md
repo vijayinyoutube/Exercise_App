@@ -23,7 +23,6 @@ Check out the video tutorial for this app
 
 Visit my Channel for more : :point_right: [vijaycreations](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)
 
-![WhatsApp Image 2020-04-13 at 6 47 37 PM](https://user-images.githubusercontent.com/58719230/80214196-078ac380-8658-11ea-93f9-cedf9e3aa7ef.jpeg)
-
+<image src="https://user-images.githubusercontent.com/58719230/80214196-078ac380-8658-11ea-93f9-cedf9e3aa7ef.jpeg" width="300" height="450"> <image src="https://user-images.githubusercontent.com/58719230/80334341-9113de80-886e-11ea-81bb-63868d9e3174.png" width="300" height="450">
 
 
